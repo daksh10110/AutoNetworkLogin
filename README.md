@@ -7,7 +7,7 @@ Wasted 4 hours on something which takes 2 mins.
 
 * Firefox 
 * Python 3
-*Selenium
+* Selenium
 
 ## Future Features:
 * Will add a direct executable file for windows
